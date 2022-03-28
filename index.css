@@ -1,0 +1,54 @@
+
+
+.logo{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    letter-spacing: 1em;
+    font-family: 'Pokemon Solid';
+    line-height: 1.5em;
+    font-size: 5vw;
+    line-height: 2em;
+}
+
+.pokemons{
+    display: flex;
+    justify-content: space-around;
+}
+.pokemon{
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    transition: 0.2s all ease-in-out;
+}
+.pokemon:hover{
+    transform: scale(1.1);
+}
+
+.name{
+    color: #250101 ;
+    font-family: 'Pokemon Solid';
+    font-size: 1.2em;
+}
+
+.container{
+    margin-top: 70x;
+}
+
+.details{
+    margin-bottom: 1em;
+}
+
+.footer {
+    background-color:rgb(27, 16, 39);
+    text-align: center;
+ }
+ 
+
+ .center{
+     text-align: center;
+     font-family: sans-serif;
+     color: rgb(255, 255, 255);
+     font-weight: 300;
+     letter-spacing: 2px;
+ }
