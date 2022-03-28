@@ -1,9 +1,9 @@
-
 @font-face {
     font-family: 'myfont';
     src: 
          url('/Fonts/Pokemon Solid.ttf') format('truetype');
 }
+
 
 .logo{
     text-align: center;
