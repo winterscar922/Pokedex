@@ -1,8 +1,17 @@
+@font-face {
+    font-family: 'myfont';
+    src: 
+        url("/Pokedex/Fonts/Pokemon Solid.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 .logo{
     text-align: center;
     color: rgb(255, 0, 0);
     letter-spacing: 1em;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'myfont';
     line-height: 1.5em;
     font-size: 5vw;
     line-height: 2em;
@@ -25,7 +34,7 @@
 
 .name{
     color: #250101 ;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'myfont';
     font-size: 1em;
 }
 
