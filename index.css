@@ -2,6 +2,8 @@
     font-family: 'myfont';
     src: 
          url('/Fonts/Pokemon Solid.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 
